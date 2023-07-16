@@ -1,0 +1,13 @@
+{
+  "name": "qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "AnastasiaSch",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  }
+}
